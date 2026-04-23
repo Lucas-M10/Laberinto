@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1776878910 source:c:\users\usuario\documents\lucas\codepro\thedive\laberinto\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<random>
+	<chrono>
+
